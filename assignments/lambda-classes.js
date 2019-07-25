@@ -95,7 +95,7 @@ class ProjectManager extends Instructor {
     }
 
     standUp(channel){
-        console.log(`${this.name} announces to ${channel}, @channel standy times!`);
+        console.log(`${this.name} announces to ${channel}, @channel standy time!`);
     }
 
     debugsCode(student, subject){
@@ -212,6 +212,8 @@ lisa.giveGrade(pebbles);
 wilma.giveGrade(bamBam);
 
 lisa.debugsCode(pebbles, 'C++');
+
+lisa.standUp('The Standup Channel');
 
 bamBam.listsSubjects();
 
