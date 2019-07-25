@@ -149,7 +149,7 @@ const bamBam = new Student ({
     location: 'Bedrock',
     previousBackground: 'pre-school',
     className: 'WEB21',
-    favSubjects: ['Java', 'Android', 'NoSQL', 'Drupal'],
+    favSubjects: ['Java', 'Cobol', 'NoSQL', 'Drupal'],
     grade: 64
 })
 
@@ -193,7 +193,7 @@ const lisa = new ProjectManager ({
     age: 9,
     location: 'Springfield',
     specialty: 'Drupal',
-    favLanguage: 'Python',
+    favLanguage: 'Cobol',
     catchPhrase: 'Well, actually',
     gradClassName: 'CS2',
     favInstructor: 'Dan'

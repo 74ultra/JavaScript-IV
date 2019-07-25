@@ -133,7 +133,7 @@ const blink = new Villian({
     healthPoints: 100,
     team: 'Blue Mountain Clan',
     weapons: 'battle axe',
-    language: 'Sindarin',
+    language: 'Silvan',
     attackStrength: 10,
 })
 
